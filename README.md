@@ -16,4 +16,4 @@ Orange is an open-source data mining and machine learning software. You can down
 
 **Hotel booking data set**
 
-For the exercise, we will use the hotel bookings data set, which was originally published by [(Antonio, de Almeida and Nunes 2019)](https://doi.org/10.1016/j.dib.2018.11.126) and is available on [Kaggle](https://www.kaggle.com/jessemostipak/hotel-booking-demand) and on [Github](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-11/readme.md).
+For the exercise, we will use the hotel bookings data set, which was originally published by ([Antonio, de Almeida and Nunes 2019](https://doi.org/10.1016/j.dib.2018.11.126)) and is available on [Kaggle](https://www.kaggle.com/jessemostipak/hotel-booking-demand) and on [Github](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-02-11/readme.md).
