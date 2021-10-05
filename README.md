@@ -1,8 +1,11 @@
 # Chapter 13: Model Evaluation
 
-**Author**: Ajda Pretnar - Faculty of Computer and Information Science, University of Ljubljana
+## How to Accurately Evaluate Predictive Models
 
-**Abstract**
+***Ajda Pretnar*** & ***Janez Demšar***
+* Ajda Pretnar - Faculty of Computer and Information Science, University of Ljubljana
+
+### Abstract
 
 The model evaluation assesses the performance of models on new data. The procedure helps to select the optimal predictive model based on appropriate evaluation scores that reflect the model's quality. Evaluation scores differ for classification and regression. The former commonly uses area under the ROC curve and F1 scores, while the latter uses the mean average error and the mean squared error. In both cases, evaluation requires the use of k-fold cross-validation, or a similar sampling technique, to ensure the model is tested on a different set of data than it was trained on.
 
