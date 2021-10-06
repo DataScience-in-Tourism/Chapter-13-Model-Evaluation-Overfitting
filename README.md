@@ -1,9 +1,10 @@
 # Chapter 13: Model Evaluation
 
 ## How to Accurately Evaluate Predictive Models
+## http://www.datascience-in-tourism.com/
 
 ***Ajda Pretnar*** & ***Janez Demšar***
-* Ajda Pretnar - Faculty of Computer and Information Science, University of Ljubljana
+* Faculty of Computer and Information Science, University of Ljubljana
 
 ### Abstract
 
